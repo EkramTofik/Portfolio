@@ -12,7 +12,7 @@ export default function Projects() {
       title: "Data Exchange Portal",
       description: "Government internship project developing secure data sharing platform for inter-agency information exchange.",
       tags: ["React", "Node.js", "MongoDB", "TypeScript"],
-      image: "/img1.png",
+      image: "/img3.png",
       codeLink: "https://github.com/EkramTofik",
       liveLink: "https://dataexchangeportal-b6fb.vercel.app/"
     },
@@ -36,7 +36,7 @@ export default function Projects() {
       title: "React Capstone Project",
       description: "Built interactive UI components using React and styled them with Tailwind CSS for responsive and modern layouts.",
       tags: ["React", "Tailwind CSS", "JavaScript"],
-      image: "/img3.png",
+      image: "/img1.png",
       codeLink: "https://github.com/EkramTofik",
       liveLink: "https://react-capstone-project-beta.vercel.app/"
     },

@@ -95,7 +95,7 @@ export default function Home() {
           {/* Bottom divider and copyright */}
           <div className="border-t border-border/30 pt-8">
             <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
-              <p className="text-muted-foreground text-sm">© 2025 Hijabi Girl Coder. All rights reserved.</p>
+              <p className="text-muted-foreground text-sm">© 2025 All rights reserved.</p>
               <div className="flex gap-6 text-sm text-muted-foreground">
                 <a href="#" className="hover:text-primary transition-colors">
                   Privacy Policy

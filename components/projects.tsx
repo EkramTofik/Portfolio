@@ -26,7 +26,7 @@ export default function Projects() {
     },
     {
       title: "Nibilla foodies",
-      description: "Role-based university platform  students, staff, and faculty with forums, events, and resource sharing.",
+      description: "A visually appealing and user-friendly food website that showcases menus, recipes, and culinary delights with interactive features.",
       tags: ["PHP", "MySQL", "JavaScript", "HTML/CSS"],
       image: "/image.png",
       codeLink: "https://github.com/EkramTofik",

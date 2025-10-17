@@ -7,19 +7,12 @@ export default function Projects() {
   const [selectedProject, setSelectedProject] = useState<number | null>(null)
 
   const projects = [
-    {
-      title: "AASTU Community Web App",
-      description: "Role-based university platform connecting students, staff, and faculty with forums, events, and resource sharing.",
-      tags: ["PHP", "MySQL", "JavaScript", "HTML/CSS"],
-      image: "/image.png",
-      codeLink: "https://github.com/EkramTofik",
-      liveLink: "https://community-web-app-2.vercel.app/"
-    },
+    
     {
       title: "Data Exchange Portal",
       description: "Government internship project developing secure data sharing platform for inter-agency information exchange.",
       tags: ["React", "Node.js", "MongoDB", "TypeScript"],
-      image: "/modern-ecommerce-dashboard.png",
+      image: "/img1.png",
       codeLink: "https://github.com/EkramTofik",
       liveLink: "https://dataexchangeportal-b6fb.vercel.app/"
     },
@@ -27,15 +20,23 @@ export default function Projects() {
       title: "Dynamic Todo List",
       description: "A web-based application that allows users to efficiently manage their daily tasks. Built with JavaScript, HTML, and CSS, it features:",
       tags: ["html","css","javascript"],
-      image: "/modern-ecommerce-dashboard.jpg",
+      image: "/img2.png",
       codeLink: "https://github.com/EkramTofik",
       liveLink: "https://dynamic-to-do-list-js-one.vercel.app/"
+    },
+    {
+      title: "Nibilla foodies",
+      description: "Role-based university platform  students, staff, and faculty with forums, events, and resource sharing.",
+      tags: ["PHP", "MySQL", "JavaScript", "HTML/CSS"],
+      image: "/image.png",
+      codeLink: "https://github.com/EkramTofik",
+      liveLink: "https://nibilla-foodies.vercel.app/"
     },
     {
       title: "React Capstone Project",
       description: "Built interactive UI components using React and styled them with Tailwind CSS for responsive and modern layouts.",
       tags: ["React", "Tailwind CSS", "JavaScript"],
-      image: "/devops-pipeline-diagram.jpg",
+      image: "/img3.png",
       codeLink: "https://github.com/EkramTofik",
       liveLink: "https://react-capstone-project-beta.vercel.app/"
     },
@@ -43,7 +44,7 @@ export default function Projects() {
       title: "Task manager",
       description: "A comprehensive task management tool designed to help users organize, prioritize, and track tasks effectively.",
       tags: ["vite react"],
-      image: "/backend-architecture-diagram.jpg",
+      image: "/img4.png",
       codeLink: "https://github.com/EkramTofik",
       liveLink: "https://task-manager-gamma-sand-75.vercel.app/"
     },
@@ -51,7 +52,7 @@ export default function Projects() {
       title: " RippleUp",
       description: "A smart platform for booking and managing service-based packages powered by AI, loyalty rewards, and community trust.",
       tags: ["React", "TypeScript", "Tailwind CSS", "Local Storage"],
-      image: "/design-system-components.png",
+      image: "/img5.png",
       codeLink: "https://github.com/EkramTofik",
       liveLink: "https://rippleup.netlify.app/"
     },

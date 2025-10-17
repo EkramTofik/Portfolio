@@ -13,7 +13,7 @@ export default function Projects() {
       tags: ["PHP", "MySQL", "JavaScript", "HTML/CSS"],
       image: "/image.png",
       codeLink: "https://github.com/EkramTofik",
-      liveLink: "#"
+      liveLink: "https://community-web-app-2.vercel.app/"
     },
     {
       title: "Data Exchange Portal",
@@ -21,39 +21,39 @@ export default function Projects() {
       tags: ["React", "Node.js", "MongoDB", "TypeScript"],
       image: "/modern-ecommerce-dashboard.png",
       codeLink: "https://github.com/EkramTofik",
-      liveLink: "#"
+      liveLink: "https://dataexchangeportal-b6fb.vercel.app/"
     },
     {
-      title: "PaperZero Mesob",
-      description: "Digital transformation initiative for government document processing and workflow automation.",
-      tags: ["Python", "Django", "PostgreSQL", "Docker"],
+      title: "Dynamic Todo List",
+      description: "A web-based application that allows users to efficiently manage their daily tasks. Built with JavaScript, HTML, and CSS, it features:",
+      tags: ["html","css","javascript"],
       image: "/modern-ecommerce-dashboard.jpg",
       codeLink: "https://github.com/EkramTofik",
-      liveLink: "#"
+      liveLink: "https://dynamic-to-do-list-js-one.vercel.app/"
     },
     {
-      title: "Interactive Coding Platform",
-      description: "Web-based education platform with interactive coding challenges and progress tracking system.",
-      tags: ["React", "Tailwind CSS", "Firebase", "JavaScript"],
+      title: "React Capstone Project",
+      description: "Built interactive UI components using React and styled them with Tailwind CSS for responsive and modern layouts.",
+      tags: ["React", "Tailwind CSS", "JavaScript"],
       image: "/devops-pipeline-diagram.jpg",
       codeLink: "https://github.com/EkramTofik",
-      liveLink: "#"
+      liveLink: "https://react-capstone-project-beta.vercel.app/"
     },
     {
-      title: "Student Registration System",
-      description: "Software requirement engineering project automating university registration workflows and course enrollment.",
-      tags: ["PHP", "System Analysis", "Documentation", "Prototyping"],
+      title: "Task manager",
+      description: "A comprehensive task management tool designed to help users organize, prioritize, and track tasks effectively.",
+      tags: ["vite react"],
       image: "/backend-architecture-diagram.jpg",
       codeLink: "https://github.com/EkramTofik",
-      liveLink: "#"
+      liveLink: "https://task-manager-gamma-sand-75.vercel.app/"
     },
     {
-      title: "Task Manager App",
-      description: "Productivity web application for efficient task management with filtering and local storage persistence.",
+      title: " RippleUp",
+      description: "A smart platform for booking and managing service-based packages powered by AI, loyalty rewards, and community trust.",
       tags: ["React", "TypeScript", "Tailwind CSS", "Local Storage"],
       image: "/design-system-components.png",
       codeLink: "https://github.com/EkramTofik",
-      liveLink: "#"
+      liveLink: "https://rippleup.netlify.app/"
     },
   ]
 

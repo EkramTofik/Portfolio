@@ -134,8 +134,8 @@ export default function Contact() {
           {/* Contact Info */}
           <div className="space-y-4 sm:space-y-6 animate-slide-up" style={{ animationDelay: "0.1s" }}>
             {[
-              { icon: Mail, label: "Email", value: "email", href: "ekru6482@gmail.com" },
-              { icon: Github, label: "GitHub", value: "github.com", href: "mailto:https://github.com/EkramTofik" },
+              { icon: Mail, label: "Email", value: "email", href: "mailto:ekru6482@gmail.com" },
+              { icon: Github, label: "GitHub", value: "github.com", href:"https://github.com/EkramTofik" },
               { icon: Twitter, label: "Twitter", value: "@twitter", href: "https://x.com/ekru6482" },
             ].map((contact, i) => {
               const Icon = contact.icon

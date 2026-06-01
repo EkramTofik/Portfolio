@@ -41,12 +41,13 @@ export default function Projects() {
       liveLink: "https://react-capstone-project-beta.vercel.app/"
     },
     {
-      title: "Task manager",
-      description: "A comprehensive task management tool designed to help users organize, prioritize, and track tasks effectively.",
+      title: "Accessibility First Recipe Reader",
+      description: "Accessibility First Recipe Reader is an inclusive recipe platform designed to provide easy-to-read, voice-enabled, and screen-reader-friendly cooking instructions for users of all abilities.
+",
       tags: ["vite react"],
       image: "/img4.png",
       codeLink: "https://github.com/EkramTofik",
-      liveLink: "https://task-manager-gamma-sand-75.vercel.app/"
+      liveLink: "https://accessibility-first-recipe-reader.vercel.app"
     },
     {
       title: " RippleUp",
